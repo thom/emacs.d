@@ -1,0 +1,15 @@
+thom's .emacs.d
+===============
+
+Installation
+============
+
+    $ cd ~
+    $ git clone git://github.com/thom/emacs.d.git
+    $ mv emacs.d .emacs.d
+
+
+Author
+======
+
+Thomas Weibel <thom@beeblebrox.net>
