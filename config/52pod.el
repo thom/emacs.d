@@ -1,4 +1,4 @@
-;;; 42prolog.el --- Custom prolog-mode configuration
+;; Custom prolog-mode configuration
 
 (require 'pod-mode)
 (setq auto-mode-alist

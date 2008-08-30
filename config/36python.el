@@ -1,4 +1,4 @@
-;;; 46python.el --- Custom python-mode configuration
+;; Custom python-mode configuration
 
 ;; Python mode
 (require 'python)

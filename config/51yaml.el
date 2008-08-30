@@ -1,4 +1,4 @@
-;;; 50yaml.el --- YAML mode configuration
+;; YAML mode configuration
 
 (require 'yaml-mode)
 
