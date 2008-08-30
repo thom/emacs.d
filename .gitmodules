@@ -10,3 +10,6 @@
 [submodule "vendor/emacs-rails"]
 	path = vendor/emacs-rails
 	url = git://github.com/crazycode/emacs-rails.git
+[submodule "vendor/rinari"]
+	path = vendor/rinari
+	url = git://github.com/eschulte/rinari.git
