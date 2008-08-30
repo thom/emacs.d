@@ -1,4 +1,4 @@
-;; 02ido.el -- Customization for ido
+;; Customization for ido
 
 (require 'ido)
 
