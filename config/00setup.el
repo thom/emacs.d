@@ -69,7 +69,7 @@
 (fset 'yes-or-no-p 'y-or-n-p)
 
 ;; Load .gz's automatically
-(auto-compression-mode)
+(auto-compression-mode t)
 
 ;; Just say no to splash screens
 (setq inhibit-startup-message t)
