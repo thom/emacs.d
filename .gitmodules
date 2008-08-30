@@ -16,3 +16,6 @@
 [submodule "vendor/rhtml"]
 	path = vendor/rhtml
 	url = git://github.com/eschulte/rhtml.git
+[submodule "vendor/markdown-mode"]
+	path = vendor/markdown-mode
+	url = git://github.com/defunkt/markdown-mode.git
