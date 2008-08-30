@@ -4,3 +4,6 @@
 [submodule "vendor/git-emacs"]
 	path = vendor/git-emacs
 	url = git://github.com/tsgates/git-emacs.git
+[submodule "vendor/gitsum"]
+	path = vendor/gitsum
+	url = git://github.com/chneukirchen/gitsum.git
