@@ -1,7 +1,7 @@
 ;; Enable backup files.
 (setq make-backup-files t)
 
-;; Enable versioning with default values (keep five last versions, I think!)
+;; Enable versioning with default values
 ;(setq version-control t)
 (setq delete-old-versions t)
 
