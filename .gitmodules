@@ -7,3 +7,6 @@
 [submodule "vendor/gitsum"]
 	path = vendor/gitsum
 	url = git://github.com/chneukirchen/gitsum.git
+[submodule "vendor/emacs-rails"]
+	path = vendor/emacs-rails
+	url = git://github.com/crazycode/emacs-rails.git
