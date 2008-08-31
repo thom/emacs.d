@@ -27,8 +27,8 @@
 
 ;; make text-mode the default major mode and start auto-fill mode
 ;; auto-magically
-(setq default-major-mode 'text-mode)
-(add-hook 'text-mode-hook 'turn-on-auto-fill)
+;(setq default-major-mode 'text-mode)
+;(add-hook 'text-mode-hook 'turn-on-auto-fill)
 ;(setq-default auto-fill-function 'do-auto-fill)
 ;(setq auto-fill-mode 1)
 
