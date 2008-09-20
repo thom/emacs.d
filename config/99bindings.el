@@ -1,10 +1,9 @@
-;; Misc. global key bindings
+k;; Misc. global key bindings
 
 ;; Some custom global key bindings
 (global-set-key "\C-cs"  'calendar)
 (global-set-key "\C-cf"  'font-lock-fontify-buffer)
 (global-set-key "\C-cg"  'goto-line)
-(global-set-key "\C-cc"  'recompile)
 (global-set-key "\C-ch"  help-map)
 (global-set-key "\C-ca"  'apply-macro-to-region-lines)
 (global-set-key [M-up]   'scroll-n-lines-behind)
