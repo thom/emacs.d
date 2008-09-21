@@ -1,4 +1,4 @@
-k;; Misc. global key bindings
+;; Misc. global key bindings
 
 ;; Some custom global key bindings
 (global-set-key "\C-cs"  'calendar)
